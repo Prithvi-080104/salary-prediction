@@ -9,7 +9,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
-API_BASE = "http://127.0.0.1:5000"
+API_BASE = "https://salary-prediction-api2.onrender.com"
 
 # ── page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
