@@ -1,0 +1,27 @@
+{
+  "Education": [
+    "Bachelor",
+    "High School",
+    "Master",
+    "PhD"
+  ],
+  "Location": [
+    "Rural",
+    "Suburban",
+    "Urban"
+  ],
+  "Job_Title": [
+    "Analyst",
+    "Director",
+    "Engineer",
+    "Manager"
+  ],
+  "Gender": [
+    "Female",
+    "Male"
+  ],
+  "Experience_min": 1,
+  "Experience_max": 29,
+  "Age_min": 20,
+  "Age_max": 64
+}
